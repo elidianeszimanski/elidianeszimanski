@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi 👋
 
-<!--
-**elidianeszimanski/elidianeszimanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Front End Development
+- 😄 Pronouns: she/her
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elidianeszimanski&layout=compact)](https://github.com/elidianeszimanski)-->
+
+
+### Contact:
+
+<div>
+  <a ref="https://api.whatsapp.com/send?phone=5567992570203" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a ref="mailto:elidianeszimanski@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
